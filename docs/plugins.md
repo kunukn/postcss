@@ -448,8 +448,8 @@ See also plugins in modular minifier [`cssnano`].
 * [`postcss-nope`] lets you write `nope` instead of `none`.
 
 [`postcss-combine-duplicated-selectors`]: https://github.com/ChristianMurphy/postcss-combine-duplicated-selectors
-[`postcss-attribute-case-insensitive`]:   https://github.com/Semigradsky/postcss-attribute-case-insensitive
 [`postcss-alter-property-value`]:         https://github.com/kunukn/postcss-alter-property-value
+[`postcss-attribute-case-insensitive`]:   https://github.com/Semigradsky/postcss-attribute-case-insensitive
 [`postcss-attribute-selector-prefix`]:    https://github.com/GitScrum/postcss-attribute-selector-prefix
 [`postcss-gradient-transparency-fix`]:    https://github.com/gilmoreorless/postcss-gradient-transparency-fix
 [`postcss-vertical-rhythm-function`]:     https://github.com/F21/postcss-vertical-rhythm-function
